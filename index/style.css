@@ -1,0 +1,104 @@
+
+    .foto-perfil {
+        height: 300px;
+        width: 300px;
+        max-width: 300px;
+        border-radius: 50%;
+    }
+    .corPrimaria{
+        background-color: #7fd38f;
+    }
+     .corSecundaria{
+        background-color: #895cf2;
+    }
+    .cornavbar{
+        background-color: #7fd38f;
+    }
+    p{
+        font-family:Lato,Arial, Helvetica, sans-serif ;
+        color: black !important;
+    }
+    .icones{
+        padding-left: 5px;
+    }
+    .titulosBrancos{
+        text-decoration: underline;
+        text-underline-position: below;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        font-weight: 700;
+        color:white;
+    }
+    
+    .titulosVerdes{
+        text-decoration: underline;
+        text-underline-position: below;
+        padding-bottom: 20px;
+        text-transform: uppercase;
+        font-weight: 700;
+        color:#7fd38f;
+    }
+
+    .textoBranco{
+        color: white !important;
+    }
+
+    .textoPreto{
+        color: black;
+    }
+.textoRoxo{
+    color: #895cf2 !important;
+}
+
+    .jumbotron{
+        margin-bottom: 0px;
+    }
+    .textoFooter{
+        margin: 0px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    html{
+        scroll-behavior:smooth;
+    }
+#logo{
+    width: 80px;
+
+}
+.alunos{
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px ;
+
+}
+#slides {
+    display:none;
+  }
+  .btn-custom{
+      background-color:  #895cf2 !important ;
+      color:white ;
+  }
+  #main{
+      max-width: 1080;
+      margin: 0 auto;
+  }
+  img{
+      max-width: 100%;
+      max-height: 100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto
+      
+  }
+  
+navbar{
+    max-width: 50%;
+    max-height: 50%;
+}
+  body{
+      background-color: #7fd38f;
+      background-image: url("img/POSTS_CURSOS_2.png");
+    
+  }
